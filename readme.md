@@ -10,6 +10,7 @@ Toby Dussek - Framework Training
 ### Thursday
 - Welcome, introductions and tech check
 - course repository: https://github.com/onionmccabbage/dataAnalysisDec26
+- All data used on this course is either already public or fictional
 #### Python
 - Core data types and syntax in Python
 - Flow control statements
@@ -24,6 +25,7 @@ Toby Dussek - Framework Training
 #### A slice of NumPy
 - Working with NumPy arrays
 - Essential operations with arrays
+- Matrix operations
 - Stats with NumPy
 
 ### Friday
@@ -32,6 +34,8 @@ Toby Dussek - Framework Training
 - Essential operations with Series and DataFrame objects
 - Loading data into DataFrame objects
 - Understanding indexing and slicing
+- Sort and filter
+- in-place operations
 - Summary statistics for DataFrame objects
 - review exercise
 - Data aggregation queries (groupby() method)
